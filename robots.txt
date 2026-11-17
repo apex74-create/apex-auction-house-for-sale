@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://apex74-create.github.io/apex-auction-house-for-sale/sitemap.xml
